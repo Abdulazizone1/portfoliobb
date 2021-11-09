@@ -1,0 +1,287 @@
+.jumbotron{
+    height: auto;
+    background: url('images/software-developer-6521720.jpg') center center fixed;
+    background-size: cover;
+}
+
+.input-group{
+    margin: 0 auto;
+}
+#search{
+    width: 60vw;
+    height: 2em;
+    font-size: 1.5em;
+    border-radius: 30px;
+}
+.icons{
+    height: 15px;
+}
+
+#title{
+    margin-top: 5vw;
+    text-align: center;
+    color: white;
+}
+#morebtn{
+    color: white;
+    border: 1px solid;
+    width: 250px;
+    letter-spacing: 1px;
+    padding: 10px;
+    border-radius: 30px;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+.row{
+   margin-top: 80px;
+}
+.languages{
+    height: 150px;
+}
+nav a{
+    font-size: 16px;
+    margin-bottom: 3px;
+    margin-right: 10px;
+}
+nav a:hover{
+    border-bottom: 1px solid red;
+    margin-bottom: 2px;  
+}
+#logo{
+    height: 30px;
+    margin-right: 10px;
+}
+#carouselHeader{
+    margin-top: 80px;
+    text-align: center;
+}
+.item{
+  height: 370px;
+  width: 250px;
+  margin: 50px 10px;
+  box-shadow: 10px 10px 10px;
+}
+#lastbtn{
+    background-color: burlywood;
+}
+#imageforowl{
+    height: 200px;
+}
+.owl-carousel{
+    text-align: center;
+    margin: 150px auto;
+}
+.item{
+    text-align: center;
+    margin: 0 auto;
+   
+}
+
+.row > div{
+    overflow: hidden;
+}
+
+#myprojects a{
+   width: 200px;
+   border-radius: 20px; 
+   padding: 10px;
+   font-size: 16px;
+}
+#myprojects > div{
+    margin-top: 80px;
+}
+#firstImage{
+    margin-top: 0px;
+}
+#myproject2{
+    grid-template-columns: 30%;
+
+}
+#myproject2 h1{
+    margin-bottom: 150px;
+   text-align: center;
+}
+#myproject2 a{
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    border-radius: 20px;
+    padding: 5px 30px;
+    background-color:  rgba(66, 135, 245,0.5);
+}
+#myproject2 > div{
+    padding: 15px 20px;
+    text-align: center;
+}
+#span{
+ position: relative;
+ top: -15px;
+ border: 1px solid;
+ padding: 20px 7vw;
+ background-color:  rgba(66, 135, 245,1);
+ border-radius: 50px;
+ left: 20%;
+} 
+
+#myproject2 .thumbnail{
+  margin-top: 100px;
+}
+#myproject2 a{
+    border: none;
+}
+#ecommerceWEb{
+    margin: 60px 0;
+}
+.lgo{
+    height: 15px;
+}
+
+#inputforNews{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+#pagination{
+    margin: 0 auto;
+}
+#footer{
+    background-color: black;
+    margin: 0 auto;
+}
+#footer > div{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#footer h2{
+  color: white;
+}
+.instagramfooter{
+    height: 45px;
+    margin: 5px;
+}
+.iconatbottom{
+    height: 30px;
+    max-width: 30px;
+}
+#myprojects{
+    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    transition: all 1s ease;
+}
+.hover{
+    border-radius: 10px;
+}
+.hover:hover{
+    opacity: 0.9;
+}
+.thumbnail{
+    transition: all 1s ease-in-out;
+}
+.hovertow:hover{
+    opacity: 0.9;
+    box-shadow: 10px 10px 10px;
+  
+} 
+.auto-input{
+ color:goldenrod;
+}
+#hidebody{
+    display: block;
+}
+#signUP{
+    display: none;
+ height: auto;
+ background: url('images/bgforform.jpg') center center fixed;
+ background-size: cover; 
+}
+#formsignup{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+#form1{
+    height: auto;
+    margin-bottom: 100px;
+    color: white;
+}
+#form1 h2{
+    color: orangered;
+}
+#form1 > div{
+    padding: 25px;
+}
+#form2{
+    margin-bottom: 100px;
+    text-align: center;
+    height: 510px;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+#form2 h2{
+    color: orangered;
+}
+#form2 input{
+   margin: 30px auto;
+   border-bottom: 2px solid yellow;
+   background-color: transparent;
+   color: white;
+   width: 250px;
+   font-size: 1.5em;
+   margin-bottom: 50px;
+}
+
+#headersss{
+    color: white;
+    text-align: center;
+}
+#headersss{
+    font-size: 20px;
+}
+#send{
+    background-color: aqua;
+    padding: 5px 0;
+    color: white;
+    font-size: larger;
+    letter-spacing: 1.5px;
+    font-weight: 500;
+}
+.formicon{
+    height: 70px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+#mailicon{
+    height: 50px;
+}
+#send{
+    margin: 20px auto;
+    width: 200px;
+    border-radius: 30px;
+}
+#myContact{
+   background: rgba(0, 0, 0, 0.2);
+}
+@media (max-width:700px){
+    #span{
+        position: relative;
+        top: -39px;
+        border: 1px solid;
+        padding: 20px 10vw;
+        background-color:  rgba(66, 135, 245,1);
+        border-radius: 0px;
+        left: 0;
+    }
+}
+@media (max-width:700px){
+    .formicon{
+        height: 50px;
+        position: relative;
+      
+        top: 20px;
+    }
+    
+    #mailicon{
+        height: 30px;
+    }
+}
