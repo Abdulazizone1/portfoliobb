@@ -189,6 +189,7 @@ nav a:hover{
 }
 #hidebody{
     display: block;
+    overflow: hidden;
 }
 #signUP{
     display: none;
