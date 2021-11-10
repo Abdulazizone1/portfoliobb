@@ -230,6 +230,10 @@ nav a:hover{
    font-size: 1.5em;
    margin-bottom: 50px;
 }
+#hidebody{
+    display: block;
+    overflow: hidden;
+}
 
 #headersss{
     color: white;
